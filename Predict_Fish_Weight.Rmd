@@ -144,4 +144,4 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 We used three different models to get the best explanatory variable, for the Perch the best explanatory variable is Height and Weight. For the Bream fish the best explanatory variable is Length2 and Height. The third was the Smelt fish and the best explanatory variable was Length2 and Weight.   
 
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
